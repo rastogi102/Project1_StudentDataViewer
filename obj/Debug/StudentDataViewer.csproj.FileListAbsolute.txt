@@ -1,0 +1,9 @@
+F:\Training Stuff\Dot netTraining\Projects\StudentDataViewer\StudentDataViewer\bin\Debug\StudentDataViewer.exe.config
+F:\Training Stuff\Dot netTraining\Projects\StudentDataViewer\StudentDataViewer\bin\Debug\StudentDataViewer.exe
+F:\Training Stuff\Dot netTraining\Projects\StudentDataViewer\StudentDataViewer\bin\Debug\StudentDataViewer.pdb
+F:\Training Stuff\Dot netTraining\Projects\StudentDataViewer\StudentDataViewer\obj\Debug\StudentDataViewer.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\Projects\StudentDataViewer\StudentDataViewer\obj\Debug\StudentDataViewer.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\Projects\StudentDataViewer\StudentDataViewer\obj\Debug\StudentDataViewer.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\Projects\StudentDataViewer\StudentDataViewer\obj\Debug\StudentDataViewer.exe
+F:\Training Stuff\Dot netTraining\Projects\StudentDataViewer\StudentDataViewer\obj\Debug\StudentDataViewer.pdb
+F:\Training Stuff\Dot netTraining\Projects\StudentDataViewer\StudentDataViewer\bin\Debug\Student_data.txt
